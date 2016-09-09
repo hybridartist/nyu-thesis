@@ -29,8 +29,10 @@
 						</li> -->
 						{% assign current = page.url | downcase | split: '/' %}
 						<!-- <li><a href="{{ site.baseurl }}/blog">Blog</a></li> -->
-						<li {% if current[1] == 'portfolio.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/portfolio.html">PORTFOLIO</a></li>
-						<li {% if current[1] == '/blog' %}class='current'{% endif %}><a href="{{ site.baseurl }}/blog">BLOG</a></li>
+						<li {% if current[1] == '/blog' %}class='current'{% endif %}><a href="{{ site.baseurl }}/blog">PROCESS</a></li>
+						<li {% if current[1] == 'no-sidebar.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/question.html">QUESTION</a></li>
+						<li {% if current[1] == 'no-sidebar.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/why.html">WHY</a></li>
+						<li {% if current[1] == 'no-sidebar.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/how.html">HOW</a></li>
 						<li {% if current[1] == 'no-sidebar.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/about.html">ABOUT</a></li>
 					</ul>
 				</nav>
