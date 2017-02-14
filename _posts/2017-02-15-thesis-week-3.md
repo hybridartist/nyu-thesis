@@ -1,6 +1,6 @@
 ---
 title: Thesis | Week 3
-featured: /assets/images/week-3/iot-question-wheel.jpg
+featured: /assets/images/week-3/50s-vacuum-ad.jpg
 layout: post
 ---
 
@@ -24,6 +24,9 @@ layout: post
 		<p>
 			I met 1x1 with Gwen to refine my research question. We did a wheel and spoke exercise where the Internet of Things is at the center and brainstormed various possible questions branching from there. Some of the questions specifically on user advocacy or user experience seemed to be quite limiting in the research approach and outputs. I liked ‘How do we visualize an IoT ecosystem?’ but it’s proposing a solution rather than capturing the real problem. I decided to go with 
 			<strong>How do humans fit into new IoT environments?</strong> The goal is to outline ways of thinking about IoT environments in order to challenge technological determinism so that we can make decisions toward a better overall user experience. I then needed to narrow down the scope of the project by choosing a case study environment to demonstrate the theories. This was a tough decision because I’m fascinated by how IoT is changing entire cities, retail spaces and workplaces, the purchasing decisions are made by a complex web of stakeholders and I don’t have the capacity to take on that type of study in my thesis. The smart home provides a more intimate portrait of the daily interactions with these technologies and they are purchased and maintained by the homeowner themselves.I thought comparing today’s smart home to the 1950s American kitchen which also saw rapid technological advancement might lend some insight. Narrowing it down even further I asked, <strong>How do smart home technologies impact domestic labor?</strong> I think this question captures the case study but may need some tweaking to convey the broader picture. 
+		</p>
+		<p>
+			<a href="https://techcrunch.com/2014/12/02/the-internet-of-things-is-reaching-escape-velocity/" class="image"><img src="{{ site.baseurl }}/assets/images/week-3/iot-question-wheel.jpg" alt="" style="width:100%;height:auto;" /></a>Spoke and wheel brainstorming.
 		</p>
 </section>
 <section>
