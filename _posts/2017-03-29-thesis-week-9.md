@@ -56,6 +56,7 @@ layout: post
 		</p>
 		<p>
 			After the talk we had an interactive workshop where I gave three mixed reality scenarios and researchers worked in groups to come up with research approaches for their scenario of choice. Printed copies of my activity system were on the tables in case groups wanted to use it. Almost immediately one person was overwhelmed and confused by it and desperately asking what they were supposed to do with it. Many groups ignored it while they discussed technical constraints in their scenarios and research methods they were more familiar with. At the end when each team shared their approaches I asked if it was different working with a mixed reality scenario and there was consensus that it was very different.
+			<img src="{{ site.baseurl }}/assets/images/week-9/ux-researcher-meetup-workshop.jpg" alt="" style="width:100%;height:auto;">
 		</p>
 </section>
 <section>	
