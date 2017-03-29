@@ -31,7 +31,7 @@ layout: post
 			<blockquote cite="http://www.sciencedirect.com/science/article/pii/S0953543807000616">The main weakness [Gonzalez, 2006] describes is one of interpretation: researchers find it notoriously difficult to decide whether something should be labeled as a top level activity or as a lower level action. For example, completing a software project can be considered as a top level activity while programming a module is considered as an action. But, equally, programming a module can be viewed as an activity. AT does not present a clear methodological prescription for analysts to decide on the selection of levels which makes it frustrating to use.</blockquote>
 		<p>
 			This was demonstrated in my smart home case study where the findings under ‘Division of Labor’ did not contribute much actionable contextual information towards the design. Here’s the case study in version 1:
-			<img src="{{ site.baseurl }}/assets/images/week-9/case-study-smart-home-v1.png" alt="" style="width:100%;height:auto;">
+			<img src="{{ site.baseurl }}/assets/images/week-9/case-study-smart-home-v1.jpg" alt="" style="width:100%;height:auto;">
 		</p>
 		<p>
 			I believe an important missing piece in capturing the context of an interaction to be the affordances and constraints of the physical environment. The relationships between objects in context, as well as factors in the natural and built environment, have an impact on human activity and are important considerations for the design of interactions. Here’s v2 with the inclusion of ‘Environment’:
@@ -44,7 +44,7 @@ layout: post
 	</header>
 		<p>
 			I tested out my adapted framework by updating my smart home case study. I believe the findings under ‘Environment’ to be much more informative for design purposes. The original framework did not provide the structure to include these ethnographic findings, whereas the updated version provides a richer understanding of the user’s context.
-			<img src="{{ site.baseurl }}/assets/images/week-9/case-study-smart-home-v2.png" alt="" style="width:100%;height:auto;">
+			<img src="{{ site.baseurl }}/assets/images/week-9/case-study-smart-home-v2.jpg" alt="" style="width:100%;height:auto;">
 		</p>
 </section>
 <section>	
